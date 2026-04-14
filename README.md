@@ -171,9 +171,3 @@ All content lives in `SwiftLearn/Resources/QuestionBank.json`. Each question fol
 Supported `type` values: `multiple_choice`, `code_completion`, `true_false`, `identify_error`, `order_steps`.
 
 For `order_steps` questions, use `steps` (string array) and `correctOrder` (int array) instead of `options`.
-
----
-
-## License
-
-MIT
