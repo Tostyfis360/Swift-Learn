@@ -7,8 +7,6 @@ Swift Learn is a quiz-based learning app built entirely in SwiftUI. It covers th
 ---
 
 ## Screenshots
-<img width="660" height="1434" alt="IMG_1124" src="https://github.com/user-attachments/assets/5159ae21-b362-45b1-8336-75392ad658f0" />
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61be7347-e773-4986-8f2f-e0eaf966ee84" width="220">
